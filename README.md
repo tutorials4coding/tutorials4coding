@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<h4>A Front-End Developer</h4>
+<h4>Tutorials4Coding, the one-stop destination for learning coding. Tutorials4Coding is made to support learners of all ability levels, whether you're a novice taking your first steps into the world of programming or an expert developer trying to improve your skills.</h4>
 
-- 📫 How to reach me: supratipdas24@gmail.com
+- 📫 How to reach me: tutorials4coding20@gmail.com
 
 <a href="https://github.com/tutorials4coding" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tutorials4coding?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
