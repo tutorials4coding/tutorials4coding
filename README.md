@@ -3,7 +3,6 @@
 <h4>A Front-End Developer</h4>
 
 - 📫 How to reach me: supratipdas24@gmail.com
-- ⚡ Fun fact: I'm currently studying BCA
 
 <a href="https://github.com/tutorials4coding" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tutorials4coding?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
